@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "203401097629",
+    "firebase_url": "https://music-bands.firebaseio.com",
+    "project_id": "music-bands",
+    "storage_bucket": "music-bands.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203401097629:android:0e753484d2e41c6b",
+        "android_client_info": {
+          "package_name": "com.musicbands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203401097629-s5vdq3mbo244rjlsu7l3b0triqacik05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musicbands",
+            "certificate_hash": "fac18ec0ebfd55e70bb57a61454baac1b8ee767f"
+          }
+        },
+        {
+          "client_id": "203401097629-1dikq8v1ijbqliqn4kdo2jldnbq840po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxLPwla-1jaEj2C4Z3n31PO5YZdU5efQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203401097629-c87obklpoq5lks2fmhf5caflot49a5lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.phi.MusicBands"
+              }
+            },
+            {
+              "client_id": "203401097629-1dikq8v1ijbqliqn4kdo2jldnbq840po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203401097629:android:9bcfcc28690ec37c",
+        "android_client_info": {
+          "package_name": "com.phi.MusicBands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203401097629-1dikq8v1ijbqliqn4kdo2jldnbq840po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGxLPwla-1jaEj2C4Z3n31PO5YZdU5efQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
